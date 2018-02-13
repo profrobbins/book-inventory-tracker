@@ -16,7 +16,7 @@
 
         body {
 
-            background-image: url(images/librarybg.jpg);
+            background-image: url(images/library.jpg);
         }
 
     </style>
@@ -36,13 +36,13 @@
 
             <ul>
                 <li>
-                    <h4><a href="Default.aspx" title="Add Book">Add a Book</a></h4>
+                    <h4><a href="Add.aspx" title="Add Book">Add a Book</a></h4>
                 </li>
                 <li>
                     <h4><a href="DeleteBook.aspx" title="Delete Book">Remove a Book</a></h4>
                 </li>
                 <li>
-                    <h4><a href="EditBook.aspx" title="Edit Book">Edit Book Information</a></h4>
+                    <h4><a href="EditInformation.aspx" title="Edit Book">Edit Book Information</a></h4>
                 </li>
                 <li>
                     <h4><a href="WatchList.aspx" title="Edit Watch List">Edit Watch List</a></h4>
@@ -60,3 +60,4 @@
 
 </body>
 </html>
+
