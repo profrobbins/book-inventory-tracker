@@ -1,0 +1,67 @@
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\ApplicationInsights.config
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.Web.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.Web.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Nate Boersma\Documents\CIS174_AdvC#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\ApplicationInsights.config
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.Web.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.Web.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\spen2\Documents\GitHub\book-inventory-tracker\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
